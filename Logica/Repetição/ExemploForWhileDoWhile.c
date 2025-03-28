@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    //Codigo para mostrar mesma repetição usando While, Do While e For
+    
     int numero;
     int contador = 1;
     
